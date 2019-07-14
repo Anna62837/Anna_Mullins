@@ -1,0 +1,20 @@
+Body {
+  background-color: lightblue;
+}
+
+.header:hover {
+  color: darkblue;
+}
+.text {
+  color: purple;
+}
+.header {
+  color: darkgray;
+  text-align: center;
+  font-family: 'Mountains of Christmas',cursive;
+  font-size: 60pt;
+}
+
+#second {
+  color: green;
+}
