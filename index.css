@@ -11,8 +11,16 @@ Body {
 .header {
   color: darkgray;
   text-align: center;
-  font-family: 'Mountains of Christmas',cursive;
+  font-family: 'Ariel' fantasy ;
   font-size: 60pt;
+}
+
+.div1 {
+  display: inline-block;
+}
+
+.div2 {
+  display: inline-block;
 }
 
 #second {
